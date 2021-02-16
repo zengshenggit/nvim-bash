@@ -1,4 +1,4 @@
-# nvim-bash
+# nvim-bash -- a simple shell script
 
 #### Just clone this repository 
 
